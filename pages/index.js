@@ -5,7 +5,7 @@
 const Home = () => (
   <div>
     <h1 className="text-3xl font-bold underline">
-      Hello world!
+      Hello world i am Nihar Ranjan Hota , along with Saroj Kumar Sahu will be making cryptrade.
     </h1>
   </div>
 );
